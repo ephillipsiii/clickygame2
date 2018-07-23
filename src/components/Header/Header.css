@@ -1,0 +1,25 @@
+.header {
+    background-color: #6d83a8;
+    background-image: url("/assets/images/...");
+    background-repeat: repeat;
+    color: white;
+    min-height: 200px;
+    padding: 180px 20px; 
+    padding-bottom: 75px;
+    text-align: center;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    border-color: black;
+    /* background-image: url("/../../../../public/assets/images/Bonfire.png") */
+  }
+  
+  .header h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 4rem;
+    text-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.header h2 {
+  text-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+  

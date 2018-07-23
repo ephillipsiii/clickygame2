@@ -1,0 +1,18 @@
+.footer {
+    background: #6d83a8;
+    height: 50px;
+    position: relative;
+    color: white;
+    overflow: auto;
+  }
+  
+  .footer > .bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: black;
+    padding: 8px;
+    font-weight: 600;
+  }
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/Artorias.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/Boar.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/Cinder.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/Dark-Souls.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/Driedfinger.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/estus.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/Havel.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/mimic.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/Nito.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/player.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/shrug.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/Solaire.png",
+      "clicked": false
+    }
+]
+  
